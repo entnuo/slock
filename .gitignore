@@ -3,3 +3,4 @@
 util.o
 slock
 slock.o
+explicit_bzero.o
