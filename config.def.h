@@ -12,7 +12,7 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* default message */
-static const char * message = "O imperialismo e todos os reacionarios sao tigres de papel. \n- Presidente Mao.";
+static const char * message = "O imperialismo e todos os reacionarios sao tigres de papel. \n- Presidente Mao";
 
 /* text color */
 static const char * text_color = "#ffffff";
@@ -23,8 +23,8 @@ static const char * font_name = "9x15";
 /*Enable blur*/
 #define BLUR
 /*Set blur radius*/
-static const int blurRadius=5;
+static const int blurRadius=70;
 /*Enable Pixelation*/
 //#define PIXELATION
 /*Set pixelation radius*/
-static const int pixelSize=2;
+static const int pixelSize=5;
