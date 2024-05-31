@@ -23,8 +23,8 @@ static const char * font_name = "9x15";
 /*Enable blur*/
 #define BLUR
 /*Set blur radius*/
-static const int blurRadius=70;
+static const int blurRadius=10;
 /*Enable Pixelation*/
 //#define PIXELATION
 /*Set pixelation radius*/
-static const int pixelSize=5;
+static const int pixelSize=0;
